@@ -1,0 +1,9 @@
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe.config
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\bin\Debug\EditorHTML.pdb
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csprojResolveAssemblyReference.cache
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\obj\Debug\EditorHTML.Form1.resources
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\obj\Debug\EditorHTML.Properties.Resources.resources
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.GenerateResource.Cache
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe
+c:\users\elgato\documents\visual studio 2012\Projects\EditorHTML\EditorHTML\obj\Debug\EditorHTML.pdb
